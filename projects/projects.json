@@ -2,7 +2,7 @@
   {
     "name": "Collabio",
     "desc": "A full-stack project management tool designed for team collaboration, task tracking, and productivity management. Built with React, Node.js, MongoDB, and Express.js.",
-    "image": "collabio",
+    "image": "Collabio",
     "category": "mern",
     "links": {
       "view": "https://ccollabio.vercel.app/",
