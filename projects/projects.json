@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Collabio",
+    "desc": "A full-stack project management tool designed for team collaboration, task tracking, and productivity management. Built with React, Node.js, MongoDB, and Express.js.",
+    "image": "collabio",
+    "category": "mern",
+    "links": {
+      "view": "https://ccollabio.vercel.app/",
+      "code": "https://github.com/ChiragBhayal/Collabio"
+    }
+  },
+  {
+    "name": "AI Chatbot",
+    "desc": "An intelligent chatbot built using Natural Language Processing (NLP) and machine learning. Designed to answer queries, simulate conversation, and support various tasks. Developed using Python, Streamlit, and NLP libraries.",
+    "image": "aichatbot",
+    "category": "ai",
+    "links": {
+      "view": "",
+      "code": "https://github.com/ChiragBhayal/AI-Chatbot"
+    }
+  },
+  {
+    "name": "College Management System",
+    "desc": "A complete college automation solution with student, faculty, and admin modules. Features include attendance, exam results, announcements, and internal messaging. Built using Java, MySQL, and JSP/Servlets.",
+    "image": "collegemanagementsystem",
+    "category": "Software",
+    "links": {
+      "view": "",
+      "code": "https://github.com/ChiragBhayal/College-Management-System"
+    }
+  }
+]
